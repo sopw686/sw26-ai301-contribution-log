@@ -1,15 +1,19 @@
-# Contribution [#]: [Issue Title]
+# Contribution [1]: [Improve implementation of `Freeze` and `Release`]
 
-**Contribution Number:** [1 / 2 / 3]  
-**Student:** [Your Name]  
-**Issue:** [GitHub issue link]  
-**Status:** [Phase I / Phase II / Phase III / Phase IV] [In Progress / Complete]
+**Contribution Number:** [1]  
+**Student:** [Sophie Wang]  
+**Issue:** [[GitHub issue link](https://github.com/cocotb/cocotb/issues/3829)]  
+**Status:** [Phase I] [Complete]
 
 ---
 
 ## Why I Chose This Issue
 
-[1-2 paragraphs explaining why this issue interests you, how it matches your skills/learning goals, what you hope to learn]
+I'm most familiar with Python and C++, so my skills matched this repositories languages. I also found that the issue was genuinely more beginner friendly than many of the other ones I looked at, and it was posted pretty recently. The overall project looks interesting and practical. 
+
+I like that this project has a good amount of attention and contributers, but not so many that the issues immediately get a lot of attention and move too fast. I also think the issue is well described and cites a specific bug. 
+
+I left a comment on the issue, asking if it is still avaliable for me to work on. 
 
 ---
 
