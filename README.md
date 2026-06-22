@@ -2,7 +2,7 @@
 
 **Contribution Number:** [1]  
 **Student:** [Sophie Wang]  
-**Issue:** [[GitHub issue link](https://github.com/cocotb/cocotb/issues/3829)]  
+**Issue:** [[GitHub issue link](https://github.com/cocotb/cocotb/issues/3829)](https://github.com/orgs/community/discussions/58062)]  
 **Status:** [Phase I] [Complete]
 
 ---
